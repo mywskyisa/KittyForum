@@ -9,3 +9,4 @@
 # Sovelluksessa on pääasiallisen tietokohteen (kissakuvat) lisäksi toissijainen tietokohde (kuvan kommentointi), joka täydentää pääasiallista tietokohdetta. Käyttäjä pystyy lisäämään toissijaisia tietokohteita omiin ja muiden käyttäjien kissakuviin liittyen. 
 
 
+
